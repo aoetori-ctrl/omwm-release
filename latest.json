@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.3",
-  "url": "https://github.com/aoetori-ctrl/omwm-food-log/releases/latest",
-  "notes": "요거트가 스무디로 기록되던 문제, 두 가지를 한 번에 말했을 때 하나가 사라지던 문제를 고쳤어요."
+  "versionCode": 31,
+  "versionName": "1.1.0",
+  "url": "https://drive.google.com/drive/folders/1lT6obZFP8APpL3qh5iioDpn74B41upu0?usp=sharing",
+  "notes": "식빵 한 조각처럼 작은 단위가 실제 크기로 계산돼요. 요거트가 스무디로 기록되던 문제도 고쳤어요."
 }

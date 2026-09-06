@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.0.1",
+  "versionCode": 30,
+  "versionName": "1.0.3",
   "url": "https://github.com/aoetori-ctrl/omwm-food-log/releases/latest",
-  "notes": "설정의 버전 줄에서 빌드 번호를 뺐어요."
+  "notes": "요거트가 스무디로 기록되던 문제, 두 가지를 한 번에 말했을 때 하나가 사라지던 문제를 고쳤어요."
 }

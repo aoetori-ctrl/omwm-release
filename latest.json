@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.0",
+  "versionCode": 28,
+  "versionName": "1.0.1",
   "url": "https://github.com/aoetori-ctrl/omwm-food-log/releases/latest",
-  "notes": "첫 정식 버전. 영양성분 DB 내장, 사진으로 영양정보 읽기, 말로 기록하기."
+  "notes": "설정의 버전 줄에서 빌드 번호를 뺐어요."
 }
